@@ -5,6 +5,7 @@ In no way is this meant to imply that the current situation is not important. I 
 
 * #COVID19
 * #COVID--19
+* #COVID19Pandemic
 * baking
 * bread
 * CDC
@@ -32,6 +33,7 @@ In no way is this meant to imply that the current situation is not important. I 
 * masks
 * nurses
 * pandemic
+* patients
 * president
 * productivity
 * quarantine
