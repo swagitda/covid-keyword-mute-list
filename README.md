@@ -18,23 +18,29 @@ In no way is this meant to imply that the current situation is not important. I 
 * covid-19
 * COVIDs
 * crisis
+* deaths
 * depression
 * disease
 * doctors
 * FDA
 * fever
 * flu
+* emergency
 * healthcare
 * home
 * hospital
+* hospitalized
 * hospitals
 * house
+* hydroxychloroquine
 * isolated
 * kushner
 * mask
 * masks
+* medical
 * nurses
 * pandemic
+* panic
 * patients
 * president
 * productivity
@@ -47,6 +53,8 @@ In no way is this meant to imply that the current situation is not important. I 
 * shelter in place
 * shortage
 * shortages
+* shutdown
+* social distancing
 * stimulus
 * stockpile
 * stress-baking
@@ -55,6 +63,7 @@ In no way is this meant to imply that the current situation is not important. I 
 * trauma
 * trump
 * unemployment
+* ventilation
 * ventilator
 * ventilators
 * WFH
