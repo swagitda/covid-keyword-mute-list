@@ -67,5 +67,5 @@ In no way is this meant to imply that the current situation is not important. I 
 * ventilator
 * ventilators
 * WFH
-* WHO
+* #WHO
 * workers
